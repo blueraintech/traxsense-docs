@@ -60,8 +60,8 @@ WWWNNNEEE // The series of instructions telling the second rover how to explore 
 ```
 #### Example Expected Output
 ```
-2 1 // Intersection point 1
-1 3 // Intersection point 2
+2 1 // Intersection point 1.
+1 3 // Intersection point 2.
 ```
 #### Visual representation
 ```
